@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Daily-Goals-React/static/css/main.f69c0c74.css",
+    "main.js": "/Daily-Goals-React/static/js/main.179bcac8.js",
+    "index.html": "/Daily-Goals-React/index.html",
+    "main.f69c0c74.css.map": "/Daily-Goals-React/static/css/main.f69c0c74.css.map",
+    "main.179bcac8.js.map": "/Daily-Goals-React/static/js/main.179bcac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69c0c74.css",
+    "static/js/main.179bcac8.js"
+  ]
+}
